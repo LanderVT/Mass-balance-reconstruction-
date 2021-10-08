@@ -1,4 +1,4 @@
-# Mass-balance-reconstruction-
+# Mass-balance-reconstruction
 Reconstruction of the mass balance of different glaciers in the Kyrgyz Tien Shan
 
 In this repository, the climatic data for the two main meteorological stations can be found:
