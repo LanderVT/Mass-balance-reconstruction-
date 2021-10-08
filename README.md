@@ -11,3 +11,5 @@ The data is provided in timesteps of 3-hours.
 1) Temperature measured at 2m above the ground (Temp)
 2) Precipitation (Prec)
 3) Yearly (1 Oct - 30 Sept) precipitation (Pter)
+
+The provided .matlab file can be used to interpolate the 3-hourly meteorological data to hourly data. 
