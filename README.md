@@ -17,3 +17,7 @@ The provided .matlab file can be used to interpolate the 3-hourly meteorological
 In addition, the outlines of the glaciers are provided via a .shapefile.
 
 Other data can be requested via lander.van.tricht@vub.be
+
+Concerning new data for CKS:
+* Temperature: Data from Kumtor is downloaded and scaled to CKS
+* Precipitation: Daily data from CKS is spread into intervals of 1h
